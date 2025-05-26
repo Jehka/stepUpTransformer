@@ -1,0 +1,16 @@
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# EasyEDA temp and backup files
+*.bak
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# Compiled files
+*.elf
+*.bin
+*.hex
+*.out

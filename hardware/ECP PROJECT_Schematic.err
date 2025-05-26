@@ -1,0 +1,17 @@
+PCB Net List Errors Report - ECP PROJECT_Schematic.sch - Fri Jul 14 09:46:12 2023
+----------------------------------------------------------------------------------
+Design to Library Part Consistency Check
+----------------------------------------
+No Library consistency checking errors.
+
+Single/Zero Pin Net Warnings
+----------------------------
+No single or zero pin nets.
+
+Schematic Connectivity Errors
+-----------------------------
+
+Dangling Connections without a Net Name
+
+$$$9548
+Sheet 1      X15800 Y9000 
