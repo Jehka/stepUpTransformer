@@ -24,16 +24,6 @@ This repository documents the fabrication of a **PCB-mounted 1:5 Step-Up Transfo
 
 ---
 
-## 📷 PCB Preview
-
-| Top View | Bottom View |
-|----------|-------------|
-| ![Top PCB](docs/pcb-top.png) | ![Bottom PCB](docs/pcb-bottom.png) |
-
-> 📎 These are routed layer views from EasyEDA. The final board was fabricated with ENIG finish and tested for thermal dissipation.
-
----
-
 ## 🗂️ Repository Structure
 
 ```
@@ -68,4 +58,4 @@ The transformer itself was provided by the university; this project focused on *
 
 ## 📜 License
 
-MIT License unless otherwise stated.
+MIT License.
